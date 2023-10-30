@@ -1,5 +1,12 @@
 function Home() {
-  return <h1>Let`s do this!</h1>;
+  <>
+    {
+      <div>
+        <h1>Deploy atualizado!</h1>
+        <h2>Let's do this</h2>
+      </div>
+    }
+  </>;
 }
 export default Home;
 
