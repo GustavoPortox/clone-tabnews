@@ -1,12 +1,5 @@
 function Home() {
-  <>
-    {
-      <div>
-        <h1>Deploy atualizado!</h1>
-        <h2>Let's do this</h2>
-      </div>
-    }
-  </>;
+  return <h1>Deploy atualizado.</h1>;
 }
 export default Home;
 
@@ -16,3 +9,6 @@ export default Home;
 // 2 - ser lembrado em grupo
 // 3 - expandir conhecimento
 // 4 - gerar métricas
+
+
+
