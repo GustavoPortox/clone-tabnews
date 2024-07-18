@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Deploy atualizado.</h1>;
+  return <h1>Parada doida.</h1>;
 }
 export default Home;
 
@@ -9,6 +9,3 @@ export default Home;
 // 2 - ser lembrado em grupo
 // 3 - expandir conhecimento
 // 4 - gerar métricas
-
-
-
